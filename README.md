@@ -6,4 +6,4 @@
 1. Run saveImage.m,
 2. Run findCorners.m, 
 3. Run project_logo.m 
-4. Video will be output in the folder.
+4. Video will be generated in current directory
